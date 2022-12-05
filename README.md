@@ -35,6 +35,6 @@
     <a href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 </div>
-
-![Snake animation][(https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg](https://github.com/jpportodev/jpportodev/blob/main/.github/workflows/cobrinha.yml))
+ 
+  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
   
