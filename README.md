@@ -1,5 +1,3 @@
-*{backGroundColor="white"}
-
 ### Hi there! I'm João Paulo Porto 😃
 
 ##
@@ -9,7 +7,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block backgroundcolor :white"><br>
   <img align="center" alt="Jp-Babel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">
   <img align="center" alt="Jp-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Jp-Bulma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
@@ -38,5 +36,5 @@
  
 </div>
 
-  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
   
