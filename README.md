@@ -1,8 +1,8 @@
 <div align=center>
 
 <img align ="left" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
-<img align ="center" height="200" src="https://user-images.githubusercontent.com/114706983/206157937-ff866ac1-90b2-4824-b07a-9a0a3b36a3f3.png" />
-<img align ="right" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
+<img align ="center" height="150" src="https://user-images.githubusercontent.com/114706983/206157937-ff866ac1-90b2-4824-b07a-9a0a3b36a3f3.png" />
+<img  height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
     
 </div>
 
