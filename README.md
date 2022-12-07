@@ -1,24 +1,22 @@
+<div align=center>
 
-
-<im height="200" src="https://user-images.githubusercontent.com/114706983/206058595-c17cdd6d-3efc-4b87-bad9-756003707b8a.gif"/>
-
-<im src="https://user-images.githubusercontent.com/114706983/206059361-d1acf8bc-96fd-49ba-b690-298d769dbe65.gif" />
-
-<im src="https://user-images.githubusercontent.com/114706983/206058790-1e37160f-0ca1-4ee0-a20d-3fb9bed1b22a.png" />
-
+<img align ="left" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
+<img align ="center" height="200" src="https://user-images.githubusercontent.com/114706983/206157937-ff866ac1-90b2-4824-b07a-9a0a3b36a3f3.png" />
+<img align ="right" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
+    
+</div>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 
 <ul align="left">
-    <li>🤩️ Amante de Tecnologia, Livro, Musica e Esporte 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮</li><br>
+    <li>🤩️ Apreciador de Tecnologia, Musica e Esporte 🤩️</li><br>
+    <li>🚀 Em processo de aprendizado, sempre buscando avançar no conhecimento e me destacar no mercado de trabalho e assim alcançar minha primeira vaga como dev front-end 🚀</li><br>
+    <li>🔮 Meu objetivo num futuro próximo é me tornar desenvolvedor Front-End Web e Mobile, então poder colocar em prática e ensinar outras pessoas tudo que eu aprendi nessa trajetória que estou trilhando🔮</li><br>
 </ul>
-<br>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
-<table align="right" height="300px">
+<table align="center" height="300px">
         <tr widht="100px">
         <td align="center">
             <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
@@ -154,8 +152,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <img align="right" src="https://user-images.githubusercontent.com/114706983/206143367-1f2723f1-2849-4f03-86c0-62709bdd8461.gif" height="495px" width="365px" alt="projects image">
-
-<table height="495px" width="365px">
+<table height="495px" width="360px">
   <tr>
     <td>
     <a href="https://github.com/jpportodev/Lista-de-Afazeres" target="_blank">
@@ -172,7 +169,7 @@
   <tr>
     <td>
     <a href="https://github.com/jpportodev/Monty-Hall" target="_blank">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=0">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
     </tr>
@@ -181,7 +178,6 @@
 <br>
 <div align="center"> 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
 <br><br>
     <a href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
