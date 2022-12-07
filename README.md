@@ -16,26 +16,10 @@
     <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮</li><br>
 </ul>
 <br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jpportodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&theme=gruvbox"/>
-</div>
-  
-  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
-    
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="right" height="300px">
         <tr widht="100px">
-            <td align="center">
-                <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-                <sub>
-                    <b>
-                        <pre>&emsp;Git&emsp;</pre>
-                    </b>
-                </sub>
-            </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
             <sub>
@@ -164,19 +148,66 @@
                 <pre>&emsp;MongoDB&emsp;</pre>
             </b>
         </sub>
-    </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="Git icon"/><br>
-        <sub>
-            <b>
-                <pre>&emsp;MySQL&emsp;</pre>
-            </b>
-        </sub>
-    </td>
-  
+    </td> 
 </tr>
 </table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<img align="right" src="https://user-images.githubusercontent.com/114706983/206143367-1f2723f1-2849-4f03-86c0-62709bdd8461.gif" height="495px" width="365px" alt="projects image">
+
+<table height="495px" width="365px">
+  <tr>
+    <td>
+    <a href="https://github.com/jpportodev/jpportodev" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  </tr>
+</table>
+<br>
 <div align="center"> 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
@@ -184,7 +215,19 @@
     <a href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
 </div>
 </p>
 <br><br><br>
+<details open>
+<h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
+<br>
+<br><br>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jpportodev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+</div>
+  
+  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
+ </details>   
