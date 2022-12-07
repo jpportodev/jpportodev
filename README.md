@@ -4,7 +4,7 @@
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 
 <ul align="left">
-    <li>🤩️ Amante de Tecnologia, Livros, Musica e Esportes 🤩️</li><br>
+    <li>🤩️ Amante de Tecnologia, Livro, Musica e Esporte 🤩️</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
     <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮</li><br>
 </ul>
