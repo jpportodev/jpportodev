@@ -181,7 +181,7 @@
 </table>
 
 
-<img align="left" height="400px" src="https://user-images.githubusercontent.com/114706983/206167847-0425be2d-3a7c-48cd-9465-18e6f849e495.gif"/>
+<img align="left" height="300px" src="https://user-images.githubusercontent.com/114706983/206167847-0425be2d-3a7c-48cd-9465-18e6f849e495.gif"/>
 <img align="right" height="400px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
 
 <h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
