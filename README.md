@@ -1,6 +1,7 @@
 <div align=center>
 
 <img align ="center" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
+
 <img align ="center" height="180" src="https://user-images.githubusercontent.com/114706983/206157937-ff866ac1-90b2-4824-b07a-9a0a3b36a3f3.png" />
 <img  align ="center" height="200" src="https://user-images.githubusercontent.com/114706983/206150733-3a494425-4945-4fa7-b1af-0ec87c613ab0.gif" />
     
@@ -149,8 +150,12 @@
     </td> 
 </tr>
 </table> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<br><br><br><br>
+
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
+<br><br>
 <img align="right" src="https://user-images.githubusercontent.com/114706983/206143367-1f2723f1-2849-4f03-86c0-62709bdd8461.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="360px">
   <tr>
@@ -175,26 +180,24 @@
     </tr>
   </tr>
 </table>
-<br>
-<div align="center"> 
-<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <br><br>
-    <a href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
+<div align="center"> 
+    <img align="right" height="300" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
+    <br><br> <br><br> <br><br>
+    <a  href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a  href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a  href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-</p>
 <br><br><br>
-<details open>
 <h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
 <br>
 <br><br>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/jpportodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
 </div>
   
-  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
- </details>   
+  <img  height="240em" src="https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg"/>
