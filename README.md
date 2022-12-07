@@ -158,53 +158,24 @@
 <table height="495px" width="365px">
   <tr>
     <td>
-    <a href="https://github.com/jpportodev/jpportodev" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/jpportodev/Lista-de-Afazeres" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Lista-de-Afazeres&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
+    <a href="https://github.com/jpportodev/Calculadora.js" target="_blank">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Calculadora.js&theme=tokyonight&hide_border=true&cache_seconds=0">
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/jpportodev/Monty-Hall" target="_blank">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true&cache_seconds=0">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true&cache_seconds=0">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true&cache_seconds=0">
-  </a>
-    </td>
-  </tr>
+    </tr>
   </tr>
 </table>
 <br>
