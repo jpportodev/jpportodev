@@ -9,7 +9,7 @@
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
-<br>
+<br><br><br>
 <ul align="left">
     <li>🤩️ Apreciador de Tecnologia, Musica e Esporte 🤩️</li><br>
     <li>🚀 Em processo de aprendizado, sempre buscando avançar no conhecimento e me destacar no mercado de trabalho e assim alcançar minha primeira vaga como dev front-end 🚀</li><br>
