@@ -15,6 +15,7 @@
     <li>🚀 Em processo de aprendizado, sempre buscando avançar no conhecimento e me destacar no mercado de trabalho e assim alcançar minha primeira vaga como dev front-end 🚀</li><br>
     <li>🔮 Meu objetivo num futuro próximo é me tornar desenvolvedor Front-End Web e Mobile, então poder colocar em prática e ensinar outras pessoas tudo que eu aprendi nessa trajetória que estou trilhando🔮</li><br>
 </ul>
+<br><br>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="center" height="300px">
@@ -151,8 +152,7 @@
 </tr>
 </table> 
 
-<br><br><br><br>
-
+<br><br>
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
 <br><br>
 <img align="right" src="https://user-images.githubusercontent.com/114706983/206143367-1f2723f1-2849-4f03-86c0-62709bdd8461.gif" height="495px" width="365px" alt="projects image">
@@ -179,18 +179,16 @@
     </tr>
   </tr>
 </table>
-
 <img align="right" height="400px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
-
+<img align="left" height="370px" src="https://user-images.githubusercontent.com/114706983/206168849-32e0b446-aea9-410c-8a4e-cdff907b3c72.gif"/>
 <h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" height="310px" src="https://user-images.githubusercontent.com/114706983/206168849-32e0b446-aea9-410c-8a4e-cdff907b3c72.gif"/>
 <div align="center"> 
     <br><br> <br><br> <br><br>
     <a  href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a  href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a  href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-<br><br><br>
+<br><br><br><br><br><br><br><br>
 <h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
 <br>
 <br><br>
