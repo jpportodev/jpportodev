@@ -14,7 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&theme=gruvbox"/>
 </div>
-  https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg
+  
+  ![Snake animation](https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg)
     
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
