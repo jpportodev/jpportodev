@@ -151,7 +151,6 @@
 </tr>
 </table> 
 
-
 <br><br><br><br>
 
 <h2 align="center">👨🏻‍💻&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;👨🏻‍💻</h2>
@@ -180,10 +179,13 @@
     </tr>
   </tr>
 </table>
-<br><br>
+
+
+<img align="left" height="400px" src="https://user-images.githubusercontent.com/114706983/206167847-0425be2d-3a7c-48cd-9465-18e6f849e495.gif"/>
+<img align="right" height="400px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
+
 <h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <div align="center"> 
-    <img align="right" height="300" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
     <br><br> <br><br> <br><br>
     <a  href = "mailto:jpportodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a  href="https://www.linkedin.com/in/jpportodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
