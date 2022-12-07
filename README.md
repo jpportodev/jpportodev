@@ -180,7 +180,7 @@
   </tr>
 </table>
 
-<img align="left" height="300px" src="https://user-images.githubusercontent.com/114706983/206168849-32e0b446-aea9-410c-8a4e-cdff907b3c72.gif"/>
+<img align="left" height="200px" src="https://user-images.githubusercontent.com/114706983/206168849-32e0b446-aea9-410c-8a4e-cdff907b3c72.gif"/>
 <img align="right" height="400px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
 
 <h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
