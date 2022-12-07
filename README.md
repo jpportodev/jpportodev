@@ -195,8 +195,8 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/jpportodev">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
 </div>
   
   <img  height="240em" src="https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg"/>
