@@ -1,5 +1,12 @@
 
 
+<im height="200" src="https://user-images.githubusercontent.com/114706983/206058595-c17cdd6d-3efc-4b87-bad9-756003707b8a.gif"/>
+
+<im src="https://user-images.githubusercontent.com/114706983/206059361-d1acf8bc-96fd-49ba-b690-298d769dbe65.gif" />
+
+<im src="https://user-images.githubusercontent.com/114706983/206058790-1e37160f-0ca1-4ee0-a20d-3fb9bed1b22a.png" />
+
+
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 
