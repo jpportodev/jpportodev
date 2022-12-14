@@ -16,6 +16,17 @@
     <li>🔮 Meu objetivo num futuro próximo é me tornar desenvolvedor Front-End Web e Mobile, então poder colocar em prática e ensinar outras pessoas tudo que eu aprendi nessa trajetória que estou trilhando🔮</li><br>
 </ul>
 <br><br>
+<h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
+<br>
+<br><br>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jpportodev">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
+</div>
+<br><br><br><br>  
+  <img  height="240em" src="https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg"/>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
 <table align="center" height="300px">
@@ -187,7 +198,8 @@
     </tr>
   </tr>
 </table>
-<img align="right" height="400px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
+<br><br><br><br>
+<img align="right" height="380px" src="https://user-images.githubusercontent.com/114706983/206162796-dba4361f-88c9-4100-bdaf-53d6bca09690.gif"/>
 <img align="left" height="370px" src="https://user-images.githubusercontent.com/114706983/206168849-32e0b446-aea9-410c-8a4e-cdff907b3c72.gif"/>
 <h2 align="center" >💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <div align="center"> 
@@ -197,14 +209,3 @@
     <a  href = "https://wa.link/a6xd1r"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 <br><br><br><br><br><br><br><br>
-<h2 align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
-<br>
-<br><br>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jpportodev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpportodev&theme=tokyonight&hide_border=true&cache_seconds=0"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpportodev&&theme=tokyonight&hide_border=true&cache_seconds=0"/>
-</div>
-  
-  <img  height="240em" src="https://github.com/jpportodev/jpportodev/blob/output/github-contribution-grid-snake.svg"/>
