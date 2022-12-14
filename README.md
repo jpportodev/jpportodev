@@ -168,6 +168,21 @@
 <br><br>
 <img align="right" src="https://user-images.githubusercontent.com/114706983/206143367-1f2723f1-2849-4f03-86c0-62709bdd8461.gif" height="495px" width="365px" alt="projects image">
 <table height="495px" width="360px">
+      <tr>
+    <td>
+    <a href="https://github.com/jpportodev/Monty-Hall" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=0">
+  </a>
+    </td>
+  </tr>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/jpportodev/Quiz" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=quiz&theme=tokyonight&hide_border=true&cache_seconds=1">
+  </a>
+    </td>
+    </tr>
   <tr>
     <td>
     <a href="https://github.com/jpportodev/Lista-de-Afazeres" target="_blank">
@@ -181,21 +196,6 @@
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Calculadora.js&theme=tokyonight&hide_border=true&cache_seconds=0">
     </td>
   </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/jpportodev/Monty-Hall" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=1">
-  </a>
-    </td>
-  </tr>
-  </tr>
-   <tr>
-    <td>
-    <a href="https://github.com/jpportodev/Quiz" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Quiz&theme=tokyonight&hide_border=true&cache_seconds=1">
-  </a>
-    </td>
-    </tr>
   </tr>
 </table>
 <br><br><br><br>
