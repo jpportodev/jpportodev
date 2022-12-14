@@ -179,7 +179,7 @@
    <tr>
     <td>
     <a href="https://github.com/jpportodev/Quiz" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=quiz&theme=tokyonight&hide_border=true&cache_seconds=1">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=quiz&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
     </tr>
