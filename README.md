@@ -176,7 +176,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpportodev&repo=Monty-Hall&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
-    </tr>
+  </tr>
   </tr>
    <tr>
     <td>
